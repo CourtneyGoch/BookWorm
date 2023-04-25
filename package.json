@@ -1,6 +1,7 @@
 {
   "name": "book-search-engine",
   "version": "1.0.0",
+  "type": "module",
   "engines": {
     "node": "18.16.0"
   },
